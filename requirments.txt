@@ -1,0 +1,5 @@
+fake-factory
+python-docx
+xlsxwriter
+pypdf2
+python-pptx
